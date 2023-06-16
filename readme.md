@@ -4,8 +4,6 @@ This Starter App Uses  The Following Technology:
 
 [Laravel](https://laravel.com/) as Api Back End
 
-[Vue](https://vuejs.org//) and [Element] or [Buefy](https://buefy.github.io/) For Front END
-
 If You :thumbsup: This Please :star2: This REPO
 
 **Sharing is Caring**  :sparkling_heart:
