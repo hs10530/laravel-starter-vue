@@ -4,10 +4,7 @@ This Starter App Uses  The Following Technology:
 
 [Laravel](https://laravel.com/) as Api Back End
 
-[Vue](https://vuejs.org//) and [Element](https://github.com/ElemeFE/element) or [Buefy](https://buefy.github.io/) For Front END
-
-[Laradock](https://github.com/laradock/laradock) For Spinning Containers for Our Servers
-
+[Vue](https://vuejs.org//) and [Element] or [Buefy](https://buefy.github.io/) For Front END
 
 If You :thumbsup: This Please :star2: This REPO
 
@@ -34,7 +31,6 @@ It Would Give me More Motivation to Update this Repo Frequently.
         - [Using Element Ui](#using-element-ui)
     - [:dart: Upcoming Updates](#dart-upcoming-updates)
     - [:trophy: For Feature Request or :name_badge: Issue or :beetle: Bugs](#trophy-for-feature-request-or-name_badge-issue-or-beetle-bugs)
-    - [:moneybag: Love This Repo You Can Directly Support me on Patreon](#moneybag-love-this-repo-you-can-directly-support-me-on-patreon)
 
 <!-- /TOC -->
 
@@ -49,7 +45,7 @@ It Would Give me More Motivation to Update this Repo Frequently.
  - [x] Prefered OS [Windows 10 Insider Build](https://insider.windows.com/Install/PC)/Linux/MacOS
 
  - [x] WSL Bash on Ubuntu or Mintty 
-  - :candy: [Guide on Setting Up Mintty WSL](https://github.com/g0ld3lux/laravel-wsl-dev-machine):
+  - :candy: [Guide on Setting Up Mintty WSL]
 
  - [x] [VSCODE](https://code.visualstudio.com/) for Various Extension to help us In Our Development
 
@@ -72,7 +68,6 @@ It Would Give me More Motivation to Update this Repo Frequently.
 :closed_book: [Check Guide Here](./Docs/DockerENVSetUp.md)
 
 ### :ocean: Deployment on Digital Ocean
-:closed_book: [Check Guide Here](https://gist.github.com/g0ld3lux/4145d031bccf66404dcdb78e9c30dc11)
 
 ## :mailbox_with_mail: Use Post Man To Test API Endpoint
 
@@ -94,8 +89,3 @@ It Would Give me More Motivation to Update this Repo Frequently.
 :memo: [TODOS](./Docs/Todo.md)
 
 ## :trophy: For Feature Request or :name_badge: Issue or :beetle: Bugs 
-:octocat: [Request Here](https://github.com/g0ld3lux/laravel-vue-starter/issues/new)
-
-
-## :moneybag: Love This Repo You Can Directly Support me on Patreon
-[Become a Patron](https://www.patreon.com/codeitlikemiley)
